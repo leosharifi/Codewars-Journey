@@ -6,4 +6,4 @@ function areYouPlayingBanjo(name) {
       return `${name} does not play banjo`
     }
     return name;
-  }
+}
