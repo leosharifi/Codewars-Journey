@@ -1,6 +1,3 @@
-function makeNegative(num) {
-    // Code?
-    let positive = num;
-    let negative = -positive;
-    return negative;
-}
+const makeNegative= num => num <= 0 ? num : -num;
+
+//-Math.abs(num)//the same as above
