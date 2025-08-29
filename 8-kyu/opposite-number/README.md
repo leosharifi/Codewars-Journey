@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript target="_blank">Opposite number</a></h2><h3>8 kyu</h3><p>Very simple, given a number (integer / decimal / both depending on the language), find its opposite (additive inverse).</p><p>Examples:</p><pre><code>1: -114: -14-34: 34</code></pre>
